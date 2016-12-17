@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>麦子穗</title>
+  <subtitle>选择，信念，坚持！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://maizisui.github.io/"/>
+  <updated>2016-12-17T08:43:30.210Z</updated>
+  <id>https://maizisui.github.io/</id>
+  
+  <author>
+    <name>Shaohua Zuo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tag</title>
+    <link href="https://maizisui.github.io/2016/12/17/tag/"/>
+    <id>https://maizisui.github.io/2016/12/17/tag/</id>
+    <published>2016-12-17T08:43:30.000Z</published>
+    <updated>2016-12-17T08:43:30.210Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>换了新的主题</title>
+    <link href="https://maizisui.github.io/2016/12/17/Change%20new%20theme/"/>
+    <id>https://maizisui.github.io/2016/12/17/Change new theme/</id>
+    <published>2016-12-17T07:33:04.000Z</published>
+    <updated>2016-12-17T09:13:41.403Z</updated>
+    
+    <content type="html"><![CDATA[<p>上次更新主题后，一直有很多没完善的地方，今天上午继续完善未完成的部分时碰到很多难题，之前的背景色不是很喜欢，找了一个近似白色的带有小点点的背景色，但是没能完成配置。昨天偶然看到一个挺不错的主题，自己非常喜欢下午觉得把这个新的模板作为自己的主题。<br><a id="more"></a><br>自己研究了这个主题发现他的源文件都是jade文件，这对我修改配置它变得异常困难。但是自己想要的主要功能都有了，还是很欣慰的。目前来看唯一缺少的插件就是浏览总人数统计。还有一点就是如何添加分类，这个也是急切要解决的问题。还有其他不少需要完善的小内容。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上次更新主题后，一直有很多没完善的地方，今天上午继续完善未完成的部分时碰到很多难题，之前的背景色不是很喜欢，找了一个近似白色的带有小点点的背景色，但是没能完成配置。昨天偶然看到一个挺不错的主题，自己非常喜欢下午觉得把这个新的模板作为自己的主题。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="心情" scheme="https://maizisui.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="note" scheme="https://maizisui.github.io/tags/note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A New Beginning</title>
+    <link href="https://maizisui.github.io/2016/12/11/A-New-Beginning/"/>
+    <id>https://maizisui.github.io/2016/12/11/A-New-Beginning/</id>
+    <published>2016-12-11T06:09:18.000Z</published>
+    <updated>2016-12-17T09:13:44.448Z</updated>
+    
+    <content type="html"><![CDATA[<p>有这个想法有几个星期了，昨天开始行动，今天终于把它变成了现实，尽管还有很多要修改的地方，但自己终究迈出了这一步。似乎有一个个人博客是每一个程序员的标配，既然自己决定加入这个行列，成为大军中的一员，我想自己也要有一个分享自己想法的地方。<a id="more"></a></p>
+<p>现在自己的博客还很不成熟，购买的域名还没有绑定，主题等其他方面自己并不满意，还要进行大量的修改，变成自己想象中的模样。最近要把这项工作给做完。 </p>
+<p>有一个博客不是难的事情，最难的是坚持去写作，去完善和维护这个分享知识的平台。给自己定个目标，我想我是可以做到的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有这个想法有几个星期了，昨天开始行动，今天终于把它变成了现实，尽管还有很多要修改的地方，但自己终究迈出了这一步。似乎有一个个人博客是每一个程序员的标配，既然自己决定加入这个行列，成为大军中的一员，我想自己也要有一个分享自己想法的地方。
+    
+    </summary>
+    
+      <category term="心情" scheme="https://maizisui.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="note" scheme="https://maizisui.github.io/tags/note/"/>
+    
+  </entry>
+  
+</feed>
