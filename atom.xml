@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zuoshaohua.com/"/>
-  <updated>2017-01-02T13:46:58.917Z</updated>
+  <updated>2017-01-02T13:54:23.668Z</updated>
   <id>https://zuoshaohua.com/</id>
   
   <author>
@@ -16,22 +16,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>点击一个元素不想跳转，是否要用`&lt;a&gt;`标签？</title>
+    <title>点击一个元素不想跳转，是否要用a标签？</title>
     <link href="https://zuoshaohua.com/2017/01/02/a%20tag/"/>
     <id>https://zuoshaohua.com/2017/01/02/a tag/</id>
     <published>2017-01-02T13:38:15.000Z</published>
-    <updated>2017-01-02T13:46:58.917Z</updated>
+    <updated>2017-01-02T13:54:23.668Z</updated>
     
-    <content type="html"><![CDATA[<p>网上有很多对这个问题的讨论，归纳如下:  </p>
-<p><code>&lt;a&gt;</code>标签派:<br><code>&lt;a&gt;</code>标签的话鼠标移过去会变成手势, 比较方便, 默认就不需要对这个元素再加上CSS来显示手形指针;<br><code>&lt;a&gt;</code>标签有伪类, 点过和没点过的可以区分开来. </p>
+    <content type="html"><![CDATA[<p>网上有很多对这个问题的讨论，分为<code>&lt;a&gt;</code>标签派和非<code>&lt;a&gt;</code>标签派，详述如下:  </p>
+<p><code>&lt;a&gt;</code>标签派：<br><code>&lt;a&gt;</code>标签的话鼠标移过去会变成手势, 比较方便, 默认就不需要对这个元素再加上CSS来显示手形指针;<br><code>&lt;a&gt;</code>标签有伪类, 点过和没点过的可以区分开来. </p>
 <p>非<code>&lt;a&gt;</code>派:<br>用<code>&lt;span&gt;</code>标签，样式表里面专门做一个<code>span.btn {cursor: pointer;}</code>设置这一类按钮的样式，没有任何毒副作用。<br>如果因为增强交互效果而用js阻止<code>&lt;a&gt;</code>标签的跳转，href还是要有的完整链接的，来保证平稳退化。所以在js函数里用<code>return false</code>。如果这个标签本身没有跳转链接，感觉还是不用a标签的好。<br>a标签的语义就是一个超链接，改变它本身的语义多少有点别扭，要绑事件任何标签都可以绑事件，div、span都很好用，后台绑定，还可以将html和js完全分开。用a标签绑事件还有一个坏处是，很多低级爬虫访问你页面的时候,不管a标签内容是什么，见到href就爬，结果造成你后台的日志系统很多无用的错误日志.</p>
 <p>小结：国内一些大的站点通用<code>&lt;a&gt;</code>标签加JS代码来阻止跳转。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;网上有很多对这个问题的讨论，归纳如下:  &lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标签派:&lt;br&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标签的话鼠标移过去会变成手势, 比较方便, 默认就不需要对这个元素再加上CSS来显示手形指针;&lt;br&gt;&lt;code
+      &lt;p&gt;网上有很多对这个问题的讨论，分为&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标签派和非&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标签派，详述如下:  &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标签派：&lt;br&gt;&lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;标
     
     </summary>
     
